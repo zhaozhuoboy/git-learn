@@ -28,8 +28,8 @@ const count = ref(0)
 
   <button type="button" @click="count++">count is: {{ count }}</button>
   <p>
-    Edit
-    <code>components/HelloWorld.vue</code> to test hot module replacement.
+    编辑
+    <code>components/HelloWorld.vue</code> 测试热更新.
   </p>
 </template>
 
