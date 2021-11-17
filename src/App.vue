@@ -12,7 +12,6 @@ import HelloWorld from './components/HelloWorld.vue'
     <li>第二天</li>
     <li>第三天</li>
     <li>增加 commit 信息规范配置</li>
-    <li>添加第五个</li>
   </ul>
 </template>
 
