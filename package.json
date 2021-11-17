@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "commit": "git add . && git cz"
   },
   "dependencies": {
     "vue": "^3.2.16"
@@ -13,8 +14,16 @@
     "@commitlint/cli": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
     "@vitejs/plugin-vue": "^1.9.3",
+    "commitizen": "^4.2.4",
+    "conventional-changelog-cli": "^2.1.1",
+    "cz-conventional-changelog-zh": "^0.0.2",
     "husky": "^7.0.4",
     "vite": "^2.6.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog-zh"
+    }
   },
   "husky": {
     "hooks": {
