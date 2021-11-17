@@ -7,3 +7,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
 ## to learn git
+
+### commit msg 约定式规范
+
+https://www.conventionalcommits.org/zh-hans/v1.0.0/
