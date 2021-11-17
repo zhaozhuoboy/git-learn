@@ -6,7 +6,12 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Git learning" />
+  <HelloWorld msg="Hello Vue 3 + Vite tet" />
+  <ul>
+    <li>第一天</li>
+    <li>第二天</li>
+    <li>第三天</li>
+  </ul>
 </template>
 
 <style>
