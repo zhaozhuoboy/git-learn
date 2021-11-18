@@ -1,6 +1,14 @@
 <template>
   <div class="page-home">
-    首页
+    <header>
+      <nav>
+        <ul>
+          <li>首页</li>
+          <li>文章列表</li>
+          <li>关于</li>
+        </ul>
+      </nav>
+    </header>
   </div>
 </template>
 
