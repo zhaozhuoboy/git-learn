@@ -10,6 +10,8 @@
           <li>Github</li>
           <li>Github</li>
           <li>gitlab</li>
+          <li>极客时间</li>
+          <li>InfoQ</li>
         </ul>
       </nav>
     </header>
