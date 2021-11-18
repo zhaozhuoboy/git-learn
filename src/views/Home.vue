@@ -6,6 +6,7 @@
           <li>首页</li>
           <li>文章列表</li>
           <li>关于</li>
+          <li>Github</li>
         </ul>
       </nav>
     </header>
