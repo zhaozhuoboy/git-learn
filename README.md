@@ -13,3 +13,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 https://www.conventionalcommits.org/zh-hans/v1.0.0/
 
 jenkins webhook
+
+build
