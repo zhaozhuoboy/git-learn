@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "说明":"prepare 会在 npm install 之后执行初始化 husky",
+    "说明": "prepare 会在 npm install 之后执行初始化 husky",
     "prepare": "husky install",
     "commit": "git add . && git cz",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
